@@ -16,7 +16,7 @@ GraphRag Chatbot is local chatbot that turns uploaded documents into a knowledge
    pip install -r requirements.txt
 
 3. Setup Envirnoment Variables:
-
+   ```bash
    NEO4J_URI= Neo4j URI
 
    NEO4J_USERNAME= Neo4j username
