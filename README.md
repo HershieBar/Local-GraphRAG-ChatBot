@@ -18,9 +18,13 @@ GraphRag Chatbot is local chatbot that turns uploaded documents into a knowledge
 3. Setup Envirnoment Variables:
 
 NEO4J_URI=<Neo4j URI>
+
 NEO4J_USERNAME=<Neo4j username>
+
 NEO4J_PASSWORD=<Neo4j password>
+
 LLAMA_MODEL=<LLM model name>
+
 EMBEDDING_MODEL=<Embedding model name>
 
 4. Run Application:
