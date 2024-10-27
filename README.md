@@ -1,4 +1,4 @@
-# GraphRag ChatBot
+# GraphRag Ollama ChatBot
 
 GraphRag Chatbot is local chatbot that turns uploaded documents into a knowledge graph using Neo4j, Langchain, and Ollama
 
